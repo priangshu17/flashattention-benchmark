@@ -1,0 +1,5 @@
+torch
+flash-attn --no-build-isolation
+packaging
+wheel
+psutil
